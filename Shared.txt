@@ -1,2 +1,2 @@
-This is the line from feature-1.
+This is the line from feature-1 and feature-2.
 This is a another line.
