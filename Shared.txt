@@ -1,2 +1,2 @@
-This is the line from main.
+This is the line from feature-1.
 This is a another line.
